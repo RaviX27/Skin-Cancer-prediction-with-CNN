@@ -1,5 +1,6 @@
 
-Skin Cancer Detection Mobile App
+#Skin Cancer Detection Mobile App
+
 🌞 Early Detection, Saving Lives!
 
 Welcome to our Skin Cancer Detection Mobile App repository! This project is dedicated to the early detection of melanoma skin cancer, a deadly disease that claims many lives each year. With the power of artificial intelligence and mobile technology, we aim to make a difference by providing a tool for quick and accurate diagnosis.
