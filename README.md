@@ -17,7 +17,8 @@ Why It Matters
 Melanoma skin cancer is extremely dangerous, but early detection significantly increases the chances of successful treatment. By providing a quick and reliable tool for skin cancer diagnosis, we aim to save lives and contribute to the global fight against cancer.
 
 Dataset
-Our machine learning model has been trained on a diverse and comprehensive dataset sourced from Kaggle. You can find the dataset at the following link: Melanoma Skin Cancer Dataset. This dataset has played a crucial role in enhancing the accuracy of our predictions.
+Our machine learning model has been trained on a diverse and comprehensive dataset sourced from Kaggle. You can find the dataset at the 
+following link: https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images/data Melanoma Skin Cancer Dataset. This dataset has played a crucial role in enhancing the accuracy of our predictions.
 
 Future Updates
 In this version of our app, we currently support the classification of skin lesions into "benign" and "malignant" categories due to dataset limitations. We acknowledge the importance of a broader dataset, and we are actively working to include more classes in our future updates. Stay tuned for upcoming improvements!
