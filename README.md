@@ -1,5 +1,4 @@
-
-#Skin Cancer Detection Mobile App
+Skin Cancer Detection Mobile App
 
 🌞 Early Detection, Saving Lives!
 
