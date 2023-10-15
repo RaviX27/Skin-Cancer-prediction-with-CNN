@@ -8,8 +8,11 @@ How it Works
 Our mobile app utilizes cutting-edge technology to analyze images of skin lesions that may be indicative of melanoma. Here's how it works:
 
 Image Upload: Users can upload skin lesion images through the mobile app.
+
 API Integration: The uploaded images are sent to our machine learning model through a robust API.
+
 ML Prediction: Our machine learning model processes the image and predicts the class of melanoma cancer. Currently, the app classifies images into two categories: "benign" and "malignant."
+
 Why It Matters
 Melanoma skin cancer is extremely dangerous, but early detection significantly increases the chances of successful treatment. By providing a quick and reliable tool for skin cancer diagnosis, we aim to save lives and contribute to the global fight against cancer.
 
